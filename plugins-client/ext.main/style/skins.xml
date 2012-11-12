@@ -292,7 +292,7 @@
             pointer-events: all;
             position: absolute;
             text-indent: 100%;
-            top: 5px;
+            top: 6px;
             width: 99px;
         }
        .updateAvailable .c9-mbar-round .mainlogo {
