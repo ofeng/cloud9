@@ -10238,7 +10238,7 @@
     .editor_tab .editor_bg .editor_welcome_banner {
         background: url(images/intel-welcome.png) no-repeat center center;
         height: 69px;
-        width: 498px;
+        width: 493px;
         margin-left: -33px;
         padding-bottom: 40px;
     }
