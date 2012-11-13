@@ -159,7 +159,7 @@
             height:21px;
             position:absolute;
             background:url(images/offline.png) no-repeat 0 0;
-            top:26px;
+            top:46px;
             right: 3px;
             display: none;
             z-index: 100000;
